@@ -1,2 +1,3 @@
 # react_countdown_timer
-Created with CodeSandbox
+
+react 利用 useState, useEffect 簡易倒數計時器 主要為練習 useEffect lifeCycle
